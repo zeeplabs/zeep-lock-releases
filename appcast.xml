@@ -8,42 +8,42 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Zeep Lock 0.1.0 — primeira versão
+            <description sparkle:format="markdown"><![CDATA[## Zeep Lock 0.1.0 — first version
 
-Gerenciador de senhas para Mac, gratuito e simples, feito para **separar o que não deve ficar misturado**: senhas da empresa, pessoais, de um projeto — cada uma no seu cofre.
+A free, simple password manager for Mac, made to **keep apart what shouldn't be mixed**: work passwords, personal ones, a client project — each in its own vault.
 
-### O que você pode fazer
+### What you can do
 
-- **Organizar por cofre.** Crie quantos cofres precisar (pessoal, trabalho, uma empresa) e mantenha cada grupo de senhas separado.
-- **Guardar e achar rápido.** Título, usuário, URL, senha, notas e tags; busca por título e URL; favoritos.
-- **Gerar senhas fortes** com tamanho e tipos de caractere à sua escolha, e ver a força de cada senha.
-- **Auditoria de segurança** para encontrar senhas fracas.
-- **Importar e exportar.** Importe de um CSV ou JSON de outro gerenciador; exporte um backup **criptografado** com uma senha que você escolhe.
+- **Organize by vault.** Create as many vaults as you need (personal, work, a company) and keep each group of passwords separate.
+- **Store and find quickly.** Title, username, URL, password, notes and tags; search by title and URL; favorites.
+- **Generate strong passwords** with the length and character types you choose, and see how strong each password is.
+- **Security audit** to find weak passwords.
+- **Import and export.** Import from a CSV or JSON file of another password manager; export an **encrypted** backup with a password you choose.
 
-### Segurança
+### Security
 
-- Seus dados ficam **criptografados neste Mac** com uma chave protegida pela sua **senha mestra**. Título, URL, tags e nome de cada cofre também são criptografados, não só a senha.
-- A senha mestra **não pode ser recuperada**. Se você a esquecer, a única saída é apagar os dados deste Mac e começar de novo. Guarde-a em um lugar seguro.
-- **Touch ID** opcional para desbloquear.
-- **Bloqueio automático** por inatividade, e sempre que o Mac dorme, a tela é bloqueada ou o protetor de tela começa.
-- A área de transferência é limpa depois de copiar uma senha, e as senhas copiadas não vão para o Universal Clipboard.
+- Your data is **encrypted on this Mac** with a key protected by your **master password**. The title, URL, tags and name of each vault are encrypted too, not only the password.
+- The master password **cannot be recovered**. If you forget it, the only way forward is to erase the data on this Mac and start over. Keep it somewhere safe.
+- Optional **Touch ID** to unlock.
+- **Auto-lock** after inactivity, and always when the Mac sleeps, the screen locks or the screen saver starts.
+- The clipboard is cleared after you copy a password, and copied passwords are kept out of the Universal Clipboard.
 
-### Sincronização com o iCloud (beta)
+### iCloud sync (beta)
 
-- É **opcional e vem desligada**. Quando ligada, sincroniza seus cofres entre os seus Macs usando o **seu** iCloud, com os dados já criptografados. A Zeep Labs não tem servidor próprio nem acesso aos seus dados.
-- Está em **beta**: ainda não foi validada com vários Macs. Mantenha um backup criptografado (Ajustes ▸ Import & Export) e não use o sync como única cópia das suas senhas.
+- It is **optional and off by default**. When on, it keeps your vaults in sync between your Macs using **your own** iCloud account, with the data already encrypted. Zeep Labs has no server of its own and no access to your data.
+- It is in **beta**: it has not been validated across several Macs yet. Keep an encrypted backup (Settings ▸ Import & Export) and don't rely on sync as the only copy of your passwords.
 
-### Requisitos
+### Requirements
 
-- macOS 26.5 ou superior.
+- macOS 26.5 or later.
 
-### Atualizações
+### Updates
 
-Esta versão se atualiza sozinha: quando houver uma nova, o Zeep Lock avisa e você escolhe instalar.
+This version updates itself: when a new one is out, Zeep Lock tells you and you choose whether to install it.
 
 ---
 
-*Zeep Lock é um produto da Zeep Tecnologia.*
+*Zeep Lock is a product of Zeep Tecnologia.*
 ]]></description>
             <enclosure url="https://github.com/zeeplabs/zeep-lock-releases/releases/download/v0.1.0/ZeepLock-0.1.0.dmg" length="6915889" type="application/octet-stream" sparkle:edSignature="Q8CJuTpE68oLXpdccIUGOCSmU4FrOr38djUIUT8qGArBlFoC93DLS3w3xMDoHLmIzbSSPRFiYdE1O1W2q5wIAw=="/>
         </item>
